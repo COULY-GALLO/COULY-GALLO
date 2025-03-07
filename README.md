@@ -3,8 +3,8 @@
 0- 🌱 I’m currently l
 
 
-- 😄 Pronouns:
-- ⚡ Fun fact:
+- 😄 Pronouns:he him
+- ⚡ Fun fact: im not it
 
 <!---
 COULY-GALLO/COULY-GALLO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
